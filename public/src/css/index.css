@@ -21,6 +21,16 @@ html {
   margin-top: 16px;
 }
 
+.btn-warning {
+  background-color: #c3a879 !important;
+  color: #222938 !important;
+}
+
+.btn-warning:hover {
+  background-color: #d0b788 !important;
+  color: red !important;
+}
+
 *,
 *:before,
 *:after {
